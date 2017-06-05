@@ -11,7 +11,8 @@
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Git 
 \f1\b \cf4 is
-\f0\b0 \cf2  a distributed version control system.\cf2 \cb3 \
-Git 
+\f0\b0 \cf2  a distributed version control system.\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Git 
 \f1\b \cf4 is
-\f0\b0 \cf2  free software.}
+\f0\b0 \cf2  free software distributed under the GPL.}
