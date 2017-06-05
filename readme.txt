@@ -12,7 +12,8 @@
 Git 
 \f1\b \cf4 is
 \f0\b0 \cf2  a distributed version control system.\
-\pard\pardeftab720\partightenfactor0
-\cf2 \cb3 Git 
+Git 
 \f1\b \cf4 is
-\f0\b0 \cf2  free software distributed under the GPL.}
+\f0\b0 \cf2  free software distributed under the GPL.\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Git has a mutable index called stage.}
